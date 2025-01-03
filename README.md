@@ -1,4 +1,4 @@
 # AkshatSharma.demo
 This is my First Git Repository 
 <br>
-Author--Akshat Sharma
+Author--Akshat Sharma(Web developer)
